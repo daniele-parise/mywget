@@ -1,1 +1,3 @@
 # gcc mywget.c -l curl
+
+#LIB gcc lib/main.c 1.c -l curl 
